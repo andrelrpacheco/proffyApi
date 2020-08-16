@@ -16,4 +16,4 @@ Para deixar Api em execução, execute o comando:
 - yarn start
 
 
-Em caso de dúvidas, leia a documentação das tecnoligias utilizadas.
+Em caso de dúvidas, leia a documentação das tecnologias utilizadas.
